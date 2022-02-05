@@ -113,6 +113,9 @@ header.innerHTML = `
 <p>Версия: 0.3</p>
 
 <p id = "post">Веб - приложение для создания постов</p>
+
+ <p>Postyk:<a href="https://andrey-berlin.github.io/"> Различные версии. Нажать  здесь</a></p>
+
 <!--div id="NetWebAppJs">
 
 
@@ -266,7 +269,7 @@ footer.innerHTML = `
 	</text>
 </svg>
 </div>
-
+ <p>Postyk:<a href="https://andrey-berlin.github.io/"> Различные версии. Нажать  здесь</a></p>
 
 <br>
 <p>C уважением, Берлин Андрей.</p>
